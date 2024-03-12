@@ -11,4 +11,3 @@ This project is a android application and can be installed using the flutter cod
 This app might be flagged as an potential issue while installing but can be installed by just continuing the safety prompt that you get from the playstore and select the option that you want to install this application.
 
 - [Drive Link](https://drive.google.com/file/d/1g43XUvIfQOkO9rHacnLCnxIBbHpkMfH4/view?usp=sharing)
-git 
