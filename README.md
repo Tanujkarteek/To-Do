@@ -1,16 +1,13 @@
-# todo
+# Tasks
 
-A new Flutter project.
+A Todo App made using Flutter and Appwrite Backend.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a android applicationa and can be installed using the flutter code itself or the apk can be downloaded from the drive link provided below.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation Instruction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app might be flagged as an potential issue while installing but can be intalled by just continuing the saftey prompt that you get from the playstore and select the option that you want to install this application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Drive Link](https://drive.google.com/file/d/1g43XUvIfQOkO9rHacnLCnxIBbHpkMfH4/view?usp=sharing)
